@@ -1,0 +1,9 @@
+[submodule "web_interface"]
+	path = web_interface
+	url = https://github.com/Pier4413/webInterfaceWeatherStation.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Pier4413/dataServerWeatherStation.git
+[submodule "embedded"]
+	path = embedded
+	url = https://github.com/Pier4413/embeddedPythonWeatherStation.git
